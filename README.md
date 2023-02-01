@@ -1,4 +1,5 @@
 # script.tvskipintro
+THIS IS FOR Kodi Nexus V20+ 
 Prompts dialog to Skip Intro for TV Shows. Skips intro for your favourite shows. The addon creates a database of your shows and stores a custom set skip value.
 
 Pretty much the opposite of UpNext.
